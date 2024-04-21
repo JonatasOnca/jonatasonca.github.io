@@ -6,9 +6,9 @@ Role : Front End Developer | Full Stack Developer | MERN stack Developer
 
 - Responsive UI
 - Single Page Application (SPA)
-- User can see all the information about Prionto Adbullah and give a feedback.
-- User can see Prionto's Project in the website
-- User can also Read Prionto's blog via this protfolio
+- User can see all the information about Jonatas da Silva Onça and give a feedback.
+- User can see Jonatas's Project in the website
+- User can also Read Jonatas's blog via this protfolio
 
 #### Technologies :
 

@@ -344,7 +344,7 @@
     "sourcesContent": [
         "module.exports = __webpack_public_path__ + \"static/media/jonatasOncaFull.png\";",
         "module.exports = __webpack_public_path__ + \"static/media/jonatasOnca.png\";",
-        "module.exports = __webpack_public_path__ + \"static/media/logo.a5f506f9.png\";",
+        "module.exports = __webpack_public_path__ + \"static/media/logo.png\";",
         "module.exports = __webpack_public_path__ + \"static/media/bootstrap.7b4c3807.png\";",
         "module.exports = __webpack_public_path__ + \"static/media/c-programming.88eef2c4.png\";",
         "module.exports = __webpack_public_path__ + \"static/media/choromeDev.5aed3098.png\";",

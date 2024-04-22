@@ -109,11 +109,11 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   },
   {
     "revision": "21f17516a2daa47f0ba1afdd30ef6d4f",
-    "url": "/static/media/jonatasOnca.png"
+    "url": "/static/media/jonatasOnca.21f17516.png"
   },
   {
     "revision": "3b2bc36c80af942fa84bcb1659457414",
-    "url": "/static/media/jonatasOncaFull.png"
+    "url": "/static/media/jonatasOncaFull.3b2bc36c.png"
   },
   {
     "revision": "72cccc0c8463452f23e6007e7f1c0b1c",
